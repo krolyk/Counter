@@ -1,0 +1,15 @@
+#division{
+    /* padding-left: 45%;
+    padding-top: 15%;
+    border-style: solid; */
+    background-color: aquamarine;
+    width: 30%;
+    border: 15px solid green;
+    padding-left: 50px;
+    /* margin: 20px; */
+    
+}
+
+#txt{
+    color: rgb(81, 9, 250);
+}
